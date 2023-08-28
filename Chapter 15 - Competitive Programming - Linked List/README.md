@@ -1,4 +1,4 @@
-# Chapter 14 - Competitive Programming - Linked List
+# Chapter 15 - Competitive Programming - Linked List
 
 ### Outscal - Full Stack Game Development - Data Structure Fundamentals II
 
