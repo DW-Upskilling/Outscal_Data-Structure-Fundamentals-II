@@ -1,6 +1,6 @@
 # Chapter 10 - Link the Linked List
 
-### Outscal - Full Stack Game Development - Data Structure Fundamentals I
+### Outscal - Full Stack Game Development - Data Structure Fundamentals II
 
 Implementation - 1 - Insertion and Traversal: [#main.cpp](https://replit.com/@developerswork/Implementation-1-Insertion-and-Traversal#main.cpp)
 
