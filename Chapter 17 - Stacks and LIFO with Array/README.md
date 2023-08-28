@@ -1,4 +1,4 @@
-# Chapter 19 - Competitive Programming - Stacks
+# Chapter 17 - Stacks and LIFO with Array
 
 ### Outscal - Full Stack Game Development - Data Structure Fundamentals II
 
